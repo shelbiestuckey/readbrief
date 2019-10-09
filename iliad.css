@@ -12,9 +12,10 @@ h1 {
     margin: auto;
     font-size: 2em;
     color: rgb(39, 37, 37);
-    font-family: Nimbus Sans Extd;
+    font-family: nimbus-sans-extended, sans-serif;
     font-style: black;
     margin-top: 5%;
+    color:darkgreen;
 }
 
 h2 {
@@ -22,7 +23,7 @@ h2 {
     margin: auto;
     font-size: 1em;
     color: rgb(39, 37, 37);
-    font-family: briller;
+    font-family: 'Times New Roman', Times, serif;
     font-style: black;
     margin-top: 5%;
 }
@@ -39,6 +40,7 @@ div {
     text-align: center;
     margin-left:10%;
     font-size: .9em;
+    line-height:25px;
 
 }
 
