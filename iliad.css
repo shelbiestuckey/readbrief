@@ -5,6 +5,7 @@ p {
     font-family: helvetica; 
     text-align: left; 
     width:45%;  
+    line-height:25px;
 }
 
 h1 {
@@ -59,6 +60,12 @@ div {
 
 body {
     background-color: white;
+}
+
+img {
+    max-width:70%;
+    height: auto;
+    width: auto\9; /* ie8 */
 }
 
 
